@@ -22,3 +22,6 @@ Input: valid stock exchange ticker
 
 Output: .csv of price data from previous day of user chosen ticker and .png line graph of
 price data
+
+## Demonstration
+https://www.youtube.com/watch?v=-krfl6gwz4s
